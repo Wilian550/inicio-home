@@ -1,0 +1,44 @@
+body{
+	color:white;
+	text-align: center;
+	
+
+}
+
+h1{
+	font-family: verdana;
+	background:-webkit-linear-gradient(top,gray,blue);
+	width: 65%;
+	border-radius: 30px;
+	border:solid 2px white;
+	text-align: center;
+	margin-left: 13%;
+	padding: 13px;
+
+}
+#caja{
+	background:-webkit-linear-gradient(top,white,gray);
+	color:blue;
+	font-family:verdana;
+	font-size: 15px;
+	width: 80%;
+	margin-left:9%;
+	padding:3px;
+	border-radius: 10px;
+}
+.coments{
+	background:-webkit-linear-gradient(top,skyblue,white);
+	border-radius: 5px;
+	padding: 4px;
+
+}
+a{
+	color:gray;
+	font-family: italic;
+	text-decoration: none;
+}
+
+#total{
+	background-color: orange;
+	width: 50px;
+}

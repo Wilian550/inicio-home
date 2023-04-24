@@ -1,0 +1,4 @@
+se pueden registrar los usuario nuevos
+puedes iniciar sesion con un nombre y contraceña
+si algun nombre ya esta registrado no se puede registrar de nuvo con el mismo nombre
+si te equivocas la clave te marca error en rojo hasta que la escribas bien
