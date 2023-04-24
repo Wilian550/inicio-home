@@ -12,3 +12,7 @@ ERRORES DE CÓDIGO
 
 3: saltos de línea ,los saltos de línea en los comentarios funcionan asi.
 Bueno, cuando alguien escribe su comentario, este en el código se le agrega el .\n  o salto de línea para que el nombre se guarde abajo del comentario, lo normal sería guardar el nombre arriba del comentario , la razón por la que se imprime el nombre sobre el comentario es porque use un bucle que va en reversa , se puede ver en el código también comentado
+
+4: este no es un error, pero debo mencionarlo ,cuando alguien comente en la mini página no habrá ninguna notificación hacia las personas que estén registradas en la página. Lo ideal sería que el usuario registrado esté enterado cuando alguien nuevo comente.
+
+5: cosas por agregar ,una de las cosas por agregar sería la opción de poder darle like y comentar o responder a otros comentarios, pero esto conllevaría más complejidad y sería obsoleta usar archivos de texto.txt para este funcionamiento , lo ideal seria agregarle bases de datos, pero como dije ,se debería reescribir todo el código
